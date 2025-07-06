@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/FreeGLUT/include",          // onde está o glut.h
+        "C:/Program Files (x86)/Microsoft SDKs/Windows/v7.1A/Include", // caso use GLU, OpenGL padrão
+        "C:/GLM/include"                // se usar GLM
+      ],
+      "defines": [],
+      "compilerPath": "C:/MinGW/bin/gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
