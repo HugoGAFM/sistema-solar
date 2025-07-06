@@ -13,6 +13,14 @@
 // de qualquer forma, se não conseguir rodar, eu vou disponibilizar o .exe do projeto no meu gitHub.
 // o link do gitHub --> https://github.com/HugoGAFM/sistema-solar
 
+// Comandos: WASD e setinhas do teclado movem a tela.
+// rodela do mouse da zoom in e zoom out. 
+// clique do mouse mexe a câmera.
+// modo noturno apertando a tecla N
+// modo pause apertando a tecla P
+
+// o projeto possui todos os planetas do sistema solar, e algumas luas icônicas, como a lua, fobos, europa e titã.
+
 // Ângulos de órbita dos planetas
 float angMercurio = 0.0f, angVenus = 0.0f, angTerra = 0.0f, angMarte = 0.0f;
 float angJupiter = 0.0f, angSaturno = 0.0f, angUrano = 0.0f, angNetuno = 0.0f;
